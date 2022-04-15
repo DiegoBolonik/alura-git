@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "local"]
+	url = /home/dcm/Scripts/PYTHON/servidor
+	fetch = +refs/heads/*:refs/remotes/local/*
